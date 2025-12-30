@@ -1,0 +1,27 @@
+{
+    "api_keys": {
+        "shodan": "",
+        "virustotal": "0f59ed6d24a62f9f9261e02a39f616fd8b3da7f89bd42ab7d086f013d52ebc4c",
+        "hunter_io": "",
+        "opencage": "ff965e9b9d2d41b8aa9dd7aef8356e25",
+        "numverify": "1f0a484814f02b8c206d5ef6e5f7bd28",
+        "google_api": "AIzaSyANfToOt0xjB4tSorZ9Ua8tZ79gVgmf07E",
+        "google_cse_id": "36f5fdaaefead4b30",
+        "gemini": "",
+        "haveibeenpwned": ""
+    },
+    "scan": {
+        "timeout": 30,
+        "max_threads": 10,
+        "depth": 2
+    },
+    "ui": {
+        "theme": "dark",
+        "show_grid": true
+    },
+    "ai": {
+        "enabled": true,
+        "model": "gemini-1.5-flash",
+        "auto_analyze": true
+    }
+}
