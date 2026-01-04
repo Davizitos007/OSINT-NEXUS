@@ -17,6 +17,7 @@ from .domain_infra import DomainInfraScan
 from .doc_metadata import DocMetadataSearch
 from .breach_intel import BreachIntelModule
 from .image_forensics import ImageForensicsModule
+from .instagram_interactions import InstagramInteractionsModule
 from .transforms import (
     WaybackMachineTransform,
     ShodanTransform,
@@ -41,6 +42,7 @@ __all__ = [
     "IPReconModule",
     "BreachIntelModule",
     "ImageForensicsModule",
+    "InstagramInteractionsModule",
     "WaybackMachineTransform",
     "ShodanTransform",
     "VirusTotalTransform",

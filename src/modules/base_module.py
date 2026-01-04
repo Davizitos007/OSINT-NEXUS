@@ -16,6 +16,7 @@ class ScanInput:
     username: str = ""
     email: str = ""
     phone: str = ""
+    domain: str = ""
     ip_address: str = ""
     platform: str = ""  # e.g. github, steam, instagram
     sources: List[str] = field(default_factory=list)
